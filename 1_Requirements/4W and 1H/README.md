@@ -22,5 +22,5 @@ when:
 
 how:
 
-1. The quiz game help the student to learn with practice, as they allow the students to think back to the information previously learned and remember them while quizzing. ... 
+1. The quiz game help the student to learn with practice, as they allow the students to think back to the information previously learned and remember them while quizzing. 
 2.  With practicing quizzes, students can do critical thinking, and get into a habit of innovative learning.
