@@ -90,7 +90,7 @@ Introduction:
 
     RAM - 8 GB
 
-Operating System -Windows 10,LINUX    
+    Operating System -Windows 10,LINUX    
 
     
   
