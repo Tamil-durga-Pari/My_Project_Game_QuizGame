@@ -69,6 +69,28 @@ Introduction:
   Leaderboard:
 
       Displays the Highest scorecard of the players from the history in a sorted way.
+      
+ Identified Requirements:
+ 
+   Technologies and Tools:
+
+   Web Technology: Chrome
+
+    Development Tool: GITHUB
+
+    Web Server: IIS
+
+    Web browser: Google Chrome
+
+    Languages Used: C
+
+    Hardware CPU configuration:
+
+    INTEL processors
+
+    RAM - 8 GB
+
+Operating System -Windows 10,LINUX    
 
     
   
