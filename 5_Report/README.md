@@ -51,6 +51,13 @@ Introduction:
      Opportunities: It will increase players confidental level.
 
      Threads: By using this online automated gaming system , sometimes it might lead to addiction towards the game and it causes some personal health issues.
+ High Level Requirements:
+
+     1.Knownledge Capacity:This project will help to understand the capacity of individual.
+ 
+     2.Confident level:The Project develops confident towards themselves.
+ 
+     3.Gain Knownledge:This Project will make individual acquire awareness about updated things.
 
     
   
