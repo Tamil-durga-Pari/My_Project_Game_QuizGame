@@ -15,4 +15,18 @@ int main()
      int countr,r,r1,count,i,n;
      float score;
      char choice;
-     char playername[20];
+     char playername[20];}
+void show_record()
+    {
+char name[20];
+float scr;
+}
+void reset_score()
+{
+    float sc;
+char nm[20];}
+void help()
+void edit_score(float score, char plnm[20])
+{
+float sc;
+char nm[20];}
