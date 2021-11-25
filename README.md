@@ -10,3 +10,7 @@ unit Testing
 cppcheck
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Tamil-durga-Pari/My_Project_Game_QuizGame/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Tamil-durga-Pari/My_Project_Game_QuizGame/actions/workflows/cppcheck.yml)
+
+linux C/C++
+
+[![Linux C/C++ CI](https://github.com/Tamil-durga-Pari/My_Project_Game_QuizGame/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/Tamil-durga-Pari/My_Project_Game_QuizGame/actions/workflows/linux_c-cpp.yml)
